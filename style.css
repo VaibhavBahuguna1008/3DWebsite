@@ -66,8 +66,13 @@ header .content-fit {
 header .content-fit nav ul{
     display: flex;
     gap: 2em;
+    
 }
-
+header .content-fit nav ul li a{
+   text-decoration: none;
+   color: #eef8ce;
+    
+}
 #banner .title {
     color: #d1ff48;
     font-size: 11em;
